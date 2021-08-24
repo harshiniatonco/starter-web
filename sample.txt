@@ -1,0 +1,4 @@
+Hello
+This is a new file in the already existing project
+It is created using vs code editor and vs code terminal
+Byee!!!
