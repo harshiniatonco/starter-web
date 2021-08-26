@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 The given web project can be deployed over any server
 
 ## Execution
+
+This is executed using terminal and running git commands on terminal
+
+## Another section
