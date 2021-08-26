@@ -13,3 +13,5 @@ Sample website with plenty of files for demos
 ## Deployment
 
 The given web project can be deployed over any server
+
+## Execution
