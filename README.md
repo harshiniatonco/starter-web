@@ -2,6 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 
+## GHI
+
 ## Introduction
 
 This web project gives an introduction aout how git works
@@ -23,3 +25,11 @@ This is executed using terminal and running git commands on terminal
 This section might include additional data and files
 
 ## abc
+
+abcefghijl=klmnopqrstuvwxyz
+
+## xyz
+
+Adding some content
+
+
